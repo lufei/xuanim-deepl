@@ -1,0 +1,12 @@
+{
+    "name": "deepl",
+    "displayName": "DeepL 翻译",
+    "description": "全世界最准确的翻译。",
+    "author": "Luffy",
+    "version": "1.0.0",
+    "type": "app",
+    "appType": "webView",
+    "webViewUrl": "https://www.deepl.com/translator",
+    "appIcon": "mdi-translate",
+    "appAccentColor": "#0e2b46"
+}
