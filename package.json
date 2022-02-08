@@ -3,10 +3,19 @@
     "displayName": "DeepL 翻译",
     "description": "全世界最准确的翻译。",
     "author": "Luffy",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "type": "app",
+    "hot": true,
     "appType": "webView",
     "webViewUrl": "https://www.deepl.com/translator",
     "appIcon": "mdi-translate",
-    "appAccentColor": "#0e2b46"
+    "appAccentColor": "#0e2b46",
+    "homepage": "https://github.com/lufei/xuanim-deepl",
+    "repository": {
+        "url": "https://github.com/lufei/xuanim-deepl",
+        "type": "git"
+    },
+    "bugs": {
+        "url": "https://github.com/lufei/xuanim-deepl/issues"
+    }
 }
